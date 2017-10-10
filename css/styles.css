@@ -1,15 +1,16 @@
 h1 {
-  color: darkred;
+  color: #f9e5f6;
   font-size: 70px;
   text-align: center;
   font-family: cursive;
 }
 
 h2 {
+  color: violet;
   font-size: 30px;
   font-weight:400;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
@@ -19,15 +20,19 @@ h3 {
 }
 
 body {
-  background-color: #e3e5e8;
+  background-color: #9b498f;
 }
 
 p {
+  color: #e8d3e4;
   font-size: 20px;
+  font-family: fantasy;
 }
 
 ul {
+  color: #ed9ce1;
   list-style-type: square;
   line-height: 25px;
   font-size: 20px;
+  font-family: fantasy;
 }
